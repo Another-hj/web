@@ -1,7 +1,7 @@
 {
-  "squadName" : "league of legends",
-  "homeTown" : "英雄联盟",
-  "formed" : 2010,
+  "游戏名称" : "league of legends",
+  "中文名" : "英雄联盟",
+  "国服上线日期" : 2010,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
@@ -29,7 +29,7 @@
     {
       "name" : "暗夜猎手",
       "age" : "射手",
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "德玛西亚",
       "powers" : [
         "闪避突袭",
         "圣银弩箭",
